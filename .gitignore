@@ -1,0 +1,6 @@
+# Intermediate artifacts produced while running the generate/ scripts.
+# Only the final CSVs in data/ are meant to be committed.
+data/_*.pkl
+data/_*.npy
+__pycache__/
+*.pyc
