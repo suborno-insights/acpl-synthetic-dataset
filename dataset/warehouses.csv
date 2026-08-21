@@ -1,0 +1,4 @@
+warehouse_id,warehouse_name,region,capacity_units,operational_since
+W01,Dhaka Central DC,Dhaka,500000.0,01/01/2019
+W02,Chattogram Regional DC,Chattogram,,01/06/2020
+W03,Rajshahi Regional DC,Rajshahi,200000.0,"March 1, 2021"

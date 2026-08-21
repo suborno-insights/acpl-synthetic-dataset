@@ -1,0 +1,46 @@
+supplier_id,supplier_name,region,categories_supplied,contract_start_date,payment_terms_days,base_lead_time_days
+S001,Supplier_1,Dhaka,Home & Kitchen; Beverages,"December 23, 2022",15.0,5
+S002,Supplier_2, Barishal ,Grocery; Electronics Accessories,2024-06-04,60.0,19
+S003,Supplier_3,Sylhet,Stationery; Grocery,06/04/2023,15.0,3
+S004,Supplier_4,Sylhet,Home & Kitchen; Personal Care,2020-03-12,45.0,6
+S005,Supplier_5,Sylhet,Apparel,"September 27, 2018",30.0,7
+S006,Supplier_6,Khulna,Electronics Accessories; Footwear,17/03/2022,30.0,8
+S007,Supplier_7,DHAKA,Personal Care,"April 9, 2024",,5
+S008,Supplier_8,DHAKA,Stationery,2024-09-03,60.0,3
+S009,Supplier_9,Chattogram,Beverages,"July 30, 2019",30.0,15
+S010,Supplier_10,Sylhet,Grocery,"August 15, 2019",45.0,20
+S011,Supplier_11,Khulna,Grocery,"April 4, 2018",,5
+S012,Supplier_12,Sylhet,Footwear; Electronics Accessories,"December 20, 2018",30.0,8
+S013,Supplier_13,Sylhet,Beverages; Footwear,2021-10-19,60.0,12
+S014,Supplier_14,Barishal,Beverages; Personal Care,2021-09-29,15.0,19
+S015,Supplier_15,dhaka,Personal Care,16/07/2020,45.0,15
+S016,Supplier_16,RAJSHAHI,Personal Care,"February 14, 2020",45.0,16
+S017,Supplier_17, Rajshahi ,Home & Kitchen,"September 6, 2023",30.0,13
+S018,Supplier_18,Sylhet,Footwear; Apparel,24/02/2021,30.0,10
+S019,Supplier_19,Khulna,Home & Kitchen; Grocery,2023-07-14,,6
+S020,Supplier_20,Chattogram,Footwear,05/08/2024,60.0,18
+S021,Supplier_21, Barishal ,Footwear,2020-03-03,,17
+S022,Supplier_22,chattogram,Electronics Accessories,2019-05-22,15.0,3
+S023,Supplier_23,Rajshahi,Home & Kitchen,10/07/2024,15.0,15
+S024,Supplier_24,Rajshahi,Stationery; Home & Kitchen,"May 7, 2022",15.0,4
+S025,Supplier_25,Barishal,Electronics Accessories,2019-12-29,15.0,16
+S026,Supplier_26,Sylhet,Electronics Accessories; Personal Care,2022-04-04,60.0,17
+S027,Supplier_27,Chattogram,Grocery,2021-07-11,60.0,5
+S028,Supplier_28,Dhaka,Footwear,13/03/2024,15.0,10
+S029,Supplier_29,Sylhet,Personal Care,2019-10-02,45.0,5
+S030,Supplier_30,Khulna,Electronics Accessories; Beverages,"October 14, 2024",15.0,13
+S031,Supplier_31, Dhaka ,Footwear; Apparel,29/05/2024,30.0,19
+S032,Supplier_32,barishal,Stationery,"March 28, 2019",45.0,4
+S033,Supplier_33,Rajshahi,Stationery,2019-02-16,45.0,10
+S034,Supplier_34,dhaka,Electronics Accessories,"August 25, 2021",60.0,20
+S035,Supplier_35,Chattogram,Personal Care; Home & Kitchen,2018-04-23,15.0,8
+S036,Supplier_36,Rajshahi,Apparel,"January 17, 2020",,5
+S037,Supplier_37,Chattogram,Electronics Accessories,23/12/2020,30.0,11
+S038,Supplier_38,Dhaka,Stationery; Grocery,"August 20, 2024",30.0,12
+S039,Supplier_39,rajshahi,Beverages; Grocery,"October 16, 2024",60.0,14
+S040,Supplier_40,Khulna,Home & Kitchen,"January 14, 2019",60.0,8
+S041,Supplier_41,Dhaka,Electronics Accessories; Beverages,08/02/2024,30.0,20
+S042,Supplier_42,Chattogram,Apparel,16/08/2018,60.0,12
+S043,Supplier_43,CHATTOGRAM,Beverages; Home & Kitchen,2023-02-15,30.0,8
+S044,Supplier_44,Rajshahi,Personal Care; Apparel,16/10/2023,45.0,20
+S045,Supplier_45,Khulna,Home & Kitchen; Apparel,05/02/2024,30.0,19
