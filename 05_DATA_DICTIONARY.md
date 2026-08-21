@@ -1,7 +1,9 @@
 # 📖 Apex Consumer Products Ltd. (ACPL) — Dataset Data Dictionary
 
 **Company**: Apex Consumer Products Ltd. (ACPL) — fictional Bangladeshi retail chain, 20 stores, 3 warehouses, 45 suppliers.
+
 **Time span**: 2024-01-01 – 2025-12-31 (2 years, 731 days)
+
 **Purpose**: End-to-end supply chain / retail / logistics analytics portfolio — 6 connected projects (Demand Forecasting, Inventory Optimization, Procurement & Supplier Risk, Logistics & Delivery Performance, Retail Sales & Pricing, Customer Analytics).
 
 **⚠️ This dataset is intentionally messy** — missing values, duplicate rows, inconsistent date/text formats, outliers, orphan foreign keys, etc. are spread across every table. Full details in `03_DATA_QUALITY_ISSUES_LOG.md` (issue **types** only, not exact rows).
